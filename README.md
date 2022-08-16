@@ -17,5 +17,5 @@ The purpose of the analysis of this dataset is to build a model to  estimate the
 ## Contents of Repository
 - ``Random Forest Regression.py `` :   Python file with classifcation class utilised in index.ipynb
 - ``READMEmd  ``         :   Markdown file with executive summay of project
-- ``Synchronous Machine.data  ``      :   CSV file with data used for project
+- ``SynchronousMachine.csv  ``      :   CSV file with data used for project
 - ``index.ipynb   ``     :   Python Notebook containing main conent for project (code,visualisations,modelling,evaluation)
